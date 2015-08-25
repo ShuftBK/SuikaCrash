@@ -22,3 +22,7 @@ sysinfo.txt
 
 # executable files
 *.exe
+
+# sound files
+*.mp3
+*.wav
